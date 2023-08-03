@@ -18,6 +18,7 @@ footer {
 
 .w {
  background-image: url("images/tom1.png");
+ 
 }
 
 .a {
@@ -49,6 +50,11 @@ background-image: url("images/tom2.png");
 
 .set {
   margin: 10% auto;
+}
+
+.pressed{
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
 }
 
 .game-over {
